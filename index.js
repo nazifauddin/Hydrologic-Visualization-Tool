@@ -79,7 +79,7 @@ main.init = function () {
                     </div>
                 </div>`
         }
-    })).fitBounds(data.mask, {
+ 
         padding: [10, 10]
     });
 
